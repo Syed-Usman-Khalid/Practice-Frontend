@@ -1,0 +1,12 @@
+.container{
+    border : 2px solid blue;
+    height : 400px;
+    /* width  : 150px; */
+    /* background-image: linear-gradient(to top right,black,grey,blue); */
+    display: flex ;
+}
+
+.box{
+    border : 2px solid grey;
+    margin : 1px;
+}
