@@ -70,6 +70,7 @@ int main()
         cout<<"the intersection numbers are "<<ans[i]<<endl;
     }
 
+    cout<<"hello world"<<endl;
 
 
     return 0;
