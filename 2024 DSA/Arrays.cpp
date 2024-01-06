@@ -71,7 +71,7 @@ int main()
     }
 
     cout<<"hello world"<<endl;
-
+    cout<<"this is saturday 06-Jan-2024 "<<endl;
 
     return 0;
 }
