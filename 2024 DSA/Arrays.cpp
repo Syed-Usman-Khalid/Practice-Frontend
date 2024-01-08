@@ -1,5 +1,6 @@
 #include<iostream>
 #include<vector>
+#include<climits>
 using namespace std;
 
 // int findUnique(vector<int> arr)
@@ -50,28 +51,55 @@ int main()
 
     // -------------------------------------------------------------------
 
-    vector<int> arr = {1,2,3,4,6,8};
-    vector<int> brr = {3,4,10};
-    vector<int> ans;
+    // vector<int> arr = {1,2,3,4,6,8};
+    // vector<int> brr = {3,4,10};
+    // vector<int> ans;
     
-    for(int i=0 ; i<arr.size(); i++)
-    {
-        for(int j=0 ; j<brr.size(); j++)
-        {  
-            if(arr[i] == brr[j])
-            ans.push_back(arr[i]);
-            brr[j] = -1;
-        }
+    // for(int i=0 ; i<arr.size(); i++)
+    // {
+    //     for(int j=0 ; j<brr.size(); j++)
+    //     {  
+    //         if(arr[i] == brr[j])
+    //         ans.push_back(arr[i]);
+    //         brr[j] = -1;
+    //     }
         
-    }
+    // }
 
-    for(int i = 0; i<= ans.size(); i++)
+    // for(int i = 0; i<= ans.size(); i++)
+    // {
+    //     cout<<"the intersection numbers are "<<ans[i]<<endl;
+    // }
+
+    // Find the maximum and minimum number in an array.
+
+    int arr[5]={1,5,4,2,8};
+
+    int maxi = INT_MIN;
+
+    for(int i=0 ; i<5; i++)
     {
-        cout<<"the intersection numbers are "<<ans[i]<<endl;
+        if(arr[i] > maxi)
+        {
+            maxi = arr[i];
+        }
     }
 
-    cout<<"hello world"<<endl;
-    cout<<"this is saturday 06-Jan-2024 "<<endl;
+    cout<<"the maximum number in a given array is "<<maxi<<endl;
+
+    int mini = INT_MAX;
+
+    for(int i=0 ; i<5; i++)
+    {
+        if(arr[i] < mini)
+        {
+            mini = arr[i];
+        }
+    }
+
+    cout<<"the minimum number in a given array is "<<mini<<endl;
+
+
 
     return 0;
 }
