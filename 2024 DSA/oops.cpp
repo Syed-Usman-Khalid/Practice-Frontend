@@ -20,5 +20,7 @@ int main()
 
     cout<<cat.gender<<endl;
 
+    cout<<"suffering from fever so not work only push to continue the work";
+
     return 0;
 }
