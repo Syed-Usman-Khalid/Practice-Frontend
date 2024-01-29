@@ -101,6 +101,7 @@ int main()
     a.set(2,5);
     cout<<"the value of area is "<<a.a(2,6)<<endl;
 
+    cout<<" 29 - 1 -24\n" ;
 
     return 0;
 }
