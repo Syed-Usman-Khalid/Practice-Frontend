@@ -103,6 +103,7 @@ int main()
 
     cout<<" 29 - 1 -24\n" ;
     cout<<" 30 - 1 -24\n" ;
+    cout<<" 01 - 2 -24\n" ;
 
     return 0;
 }
