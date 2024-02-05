@@ -106,6 +106,9 @@ int main()
     cout<<" 01 - 2 -24\n" ;
     cout<<"helo";
     cout<<"helo";
+    cout<<"helo";
+
+
 
     return 0;
 }
