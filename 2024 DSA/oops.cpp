@@ -109,6 +109,7 @@ int main()
     cout<<"helo";
     cout<<"shallow vs deep opy";
     cout<<"shallow ";
+    cout<<"shallow ";
 
     return 0;
 }
