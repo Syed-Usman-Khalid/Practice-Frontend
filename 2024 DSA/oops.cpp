@@ -110,6 +110,7 @@ int main()
     cout<<"shallow vs deep opy";
     cout<<"shallow ";
     cout<<"shallow ";
+    cout<<"----------------";
 
     return 0;
 }
