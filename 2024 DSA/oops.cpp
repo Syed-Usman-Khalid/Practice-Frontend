@@ -111,6 +111,7 @@ int main()
     cout<<"shallow ";
     cout<<"shallow ";
     cout<<"----------------";
+    cout<<" yes \n";
 
-    return 0;
+    return 0 ;
 }
