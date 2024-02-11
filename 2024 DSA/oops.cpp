@@ -112,6 +112,7 @@ int main()
     cout<<"shallow ";
     cout<<"----------------";
     cout<<" yes \n";
-
+    cout<<"no ";
+    
     return 0 ;
 }
