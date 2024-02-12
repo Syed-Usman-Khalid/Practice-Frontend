@@ -113,6 +113,6 @@ int main()
     cout<<"----------------";
     cout<<" yes \n";
     cout<<"no ";
-    
+    cout<<"i know ";
     return 0 ;
 }
