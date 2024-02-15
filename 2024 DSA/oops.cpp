@@ -114,5 +114,7 @@ int main()
     cout<<" yes \n";
     cout<<"no ";
     cout<<"i know ";
+    cout<<"ikd";
     return 0 ;
+
 }
