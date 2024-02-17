@@ -115,6 +115,9 @@ int main()
     cout<<"no ";
     cout<<"i know ";
     cout<<"ikd";
+    cout<<"ikd";
+    
+
     return 0 ;
 
 }
