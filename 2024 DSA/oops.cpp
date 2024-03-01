@@ -118,7 +118,7 @@ int main()
     cout<<"ikd";
     cout<<"ikd";
     cout<<"papers are coming \n";
-    
+    cout<<"papers are finished \n";
 
     return 0 ;
 
