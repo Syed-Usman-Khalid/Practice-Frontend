@@ -119,6 +119,7 @@ int main()
     cout<<"ikd";
     cout<<"papers are coming \n";
     cout<<"papers are finished \n";
+    cout<<"starting arrays";
 
     return 0 ;
 
