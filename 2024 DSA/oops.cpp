@@ -120,7 +120,8 @@ int main()
     cout<<"papers are coming \n";
     cout<<"papers are finished \n";
     cout<<"starting arrays";
-
+    cout<<"starting arrays";
+    
     return 0 ;
 
 }
