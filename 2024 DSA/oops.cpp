@@ -101,26 +101,6 @@ int main()
     a.set(2,5);
     cout<<"the value of area is "<<a.a(2,6)<<endl;
 
-    cout<<" 29 - 1 -24\n" ;
-    cout<<" 30 - 1 -24\n" ;
-    cout<<" 01 - 2 -24\n" ;
-    cout<<"helo";
-    cout<<"helo";
-    cout<<"helo";
-    cout<<"shallow vs deep opy";
-    cout<<"shallow ";
-    cout<<"shallow ";
-    cout<<"----------------";
-    cout<<" yes \n";
-    cout<<"no ";
-    cout<<"i know ";
-    cout<<"ikd";
-    cout<<"ikd";
-    cout<<"ikd";
-    cout<<"papers are coming \n";
-    cout<<"papers are finished \n";
-    cout<<"starting arrays";
-    cout<<"starting arrays";
     
     return 0 ;
 
