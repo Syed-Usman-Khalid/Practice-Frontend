@@ -38,6 +38,8 @@ int main()
 
     // Count O's and 1's in an array.
 
+    cout<<"yes";
+
     
     
     return 0;
