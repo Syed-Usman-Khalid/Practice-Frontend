@@ -72,9 +72,6 @@ int main()
             }
             cout<<endl;
         }
-
-
-    
-    
+    cout<<"g";
     return 0;
 }
