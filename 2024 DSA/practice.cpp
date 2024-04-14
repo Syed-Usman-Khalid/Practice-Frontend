@@ -35,14 +35,11 @@ int main()
     //     if(arr[i]==key)
     //         cout<<"key is present\n";
     // }
-
-    // Count O's and 1's in an array.
-
     
     //  Declaration of 2D array.
 
-    int arr[2][2] = {2,3,5,4} ;
-    int key = 6;
+    // int arr[2][2] = {2,3,5,4} ;
+    // int key = 6;
 
     // taking input in 2D array  
 
@@ -59,19 +56,42 @@ int main()
 
     //  Printing the 2D array. 
 
-    for(int i = 0 ; i<2 ; i++)
-        {
-            for(int j = 0 ; j< 2 ;j++)
-            {
-                // cout<<arr[i][j] << " ";
-                if (key == arr[i][j])
-                    cout<<"found\n";
-                else 
-                    cout<<"not found\n";
+    // for(int i = 0 ; i<2 ; i++)
+    //     {
+    //         for(int j = 0 ; j< 2 ;j++)
+    //         {
+    //             // cout<<arr[i][j] << " ";
+    //             if (key == arr[i][j])
+    //                 cout<<"found\n";
+    //             else 
+    //                 cout<<"not found\n";
 
-            }
-            cout<<endl;
-        }
-    cout<<"g";
+    //         }
+    //         cout<<endl;
+    //     }
+
+    // Question : Sort 0,1,2 or sort colours.
+
+    int arr[8] = {0,1,2,2,1,2,0,1}; 
+    
+    int num1,num2,num0 = 0 ;
+    int i = 0;
+
+    while (arr > 0)
+    {
+        if(arr[i]==0)
+        num0++;
+        if(arr[i]==1)
+        num1++;
+        if(arr[i]==2)
+        num2++;
+
+        i++;
+    }
+
+    cout<< "zero are "<<num0<< endl;
+
+
+
     return 0;
 }
