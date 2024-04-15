@@ -73,11 +73,13 @@ int main()
     // Question : Sort 0,1,2 or sort colours.
 
     int arr[8] = {0,1,2,2,1,2,0,1}; 
-    
+    int size = 0;
+
+    for(int i =0 ; i< )
     int num1,num2,num0 = 0 ;
     int i = 0;
 
-    while (arr > 0)
+    while ( > 0)
     {
         if(arr[i]==0)
         num0++;
@@ -88,7 +90,7 @@ int main()
 
         i++;
     }
-
+cout<<"ok";
     cout<< "zero are "<<num0<< endl;
 
 
