@@ -72,26 +72,45 @@ int main()
 
     // Question : Sort 0,1,2 or sort colours.
 
-    int arr[8] = {0,1,2,2,1,2,0,1}; 
-    int size = 0;
+    // int arr[8] = {0,1,2,2,1,2,0,1}; 
+    // int size = 8;
 
-    for(int i =0 ; i< )
-    int num1,num2,num0 = 0 ;
-    int i = 0;
+    
+    // int num1,num2,num0 = 0 ;
+    // int i = 0;
 
-    while ( > 0)
+    // for(int i = 0;i < size; i++)
+    // {
+    //     if(arr[i]==0)
+    //     num0++;
+    //     if(arr[i]==1)
+    //     num1++;
+    //     if(arr[i]==2)
+    //     num2++;
+
+    //     // i++;
+    // }
+
+    // while (size >= i)
+    // {
+        
+    // }
+
+
+    vector<int> nums = {2,4,6,8,10,12,13};
+    int s = 0 key = 11; 
+    int e = nums.size();
+    int mid = s + (e-s)/2;
+
+    while(s<e)
     {
-        if(arr[i]==0)
-        num0++;
-        if(arr[i]==1)
-        num1++;
-        if(arr[i]==2)
-        num2++;
-
-        i++;
+        if(nums[mid] == key)
+            cout<<"key is found\n";
+        else if(nums[mid] > key)
+            e = mid - 1;
+        else if(nums[mid] < key)
+            s= mid+1;
     }
-cout<<"ok";
-    cout<< "zero are "<<num0<< endl;
 
 
 
