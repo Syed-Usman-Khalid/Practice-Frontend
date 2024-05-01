@@ -18,5 +18,7 @@ int main()
         else if(nums[mid] < key)
             s= mid+1;
     }
+    cout<<"key found\n";
     return 0;
+
 }
