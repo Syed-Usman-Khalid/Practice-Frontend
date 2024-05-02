@@ -19,6 +19,7 @@ int main()
             s= mid+1;
     }
     cout<<"key found\n";
+    cout<<"key found\n";
     return 0;
 
 }
