@@ -22,7 +22,7 @@ int main()
     }
     
     cout<<"upper bound\n";
-    
+    cout<<"upper bound\n";
 
     
 
