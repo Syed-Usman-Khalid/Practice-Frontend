@@ -18,10 +18,7 @@ int main()
         else if(nums[mid] < key)
             s= mid+1;
     }
-    cout<<"key found\n";
-    cout<<"key found\n";
-    cout<<"key found\n";
-    cout<<"last day ";
+    
     return 0;
 
 }
