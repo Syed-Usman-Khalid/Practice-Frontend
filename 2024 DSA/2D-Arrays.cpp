@@ -25,7 +25,7 @@ int main()
     cout<<"upper bound\n";
     cout<<"19-may chinese\n ";
 
-    cout<<"u";
+    cout<<"binary search questions from 2nd june";
 
 
     return 0;
