@@ -19,10 +19,27 @@ int main()
     //         s= mid+1;
     // }
 
-    cout<<"square root\n";
+    // ----------------- find the pivot element in an rotated sorted array. -----------------
 
+    int arr [5] = {5,7,1,2,3};
+    int s = 0;
+    int e = 4;
+    int mid = s+(e-s)/2;
 
-    
+    while(s<e)
+    {
+        if(arr[mid] > arr[0])
+        {
+            s = mid + 1;
+        }
+        else
+        {
+            e = mid;
+        }
+    mid = s+(e-s)/2;
+    }
+    cout<<" \n pivot element is "<<arr[s]<<endl;
+        
     return 0;
 
 }
