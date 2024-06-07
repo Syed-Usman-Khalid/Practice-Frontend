@@ -39,6 +39,8 @@ int main()
     mid = s+(e-s)/2;
     }
     cout<<" \n pivot element is "<<arr[s]<<endl;
+
+    cout<<"find the square root \n ";
         
     return 0;
 
