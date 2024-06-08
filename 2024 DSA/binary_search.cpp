@@ -41,6 +41,7 @@ int main()
     cout<<" \n pivot element is "<<arr[s]<<endl;
 
     cout<<"find the square root \n ";
+    cout<<"find the square root \n ";
         
     return 0;
 
