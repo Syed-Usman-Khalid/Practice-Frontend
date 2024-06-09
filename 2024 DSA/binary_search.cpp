@@ -42,7 +42,8 @@ int main()
 
     cout<<"find the square root \n ";
     cout<<"find the square root \n ";
-        
+    cout<<"find the square root \n ";
+    
     return 0;
 
 }
