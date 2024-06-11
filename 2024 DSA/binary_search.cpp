@@ -40,10 +40,11 @@ int main()
     }
     cout<<" \n pivot element is "<<arr[s]<<endl;
 
-    cout<<"find the square root \n ";
-    cout<<"find the square root \n ";
-    cout<<"find the square root \n ";
-    cout<<"find the square root \n ";
+    
+    for(int i=0 ;i<=5; i++)
+    {
+        cout<<"basic for loop\n";
+    }
     
     return 0;
 
