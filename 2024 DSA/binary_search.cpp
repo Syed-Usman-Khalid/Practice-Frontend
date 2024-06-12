@@ -41,11 +41,5 @@ int main()
     cout<<" \n pivot element is "<<arr[s]<<endl;
 
     
-    for(int i=0 ;i<=5; i++)
-    {
-        cout<<"basic for loop\n";
-    }
-    
-    return 0;
-
+    int a = 45;
 }
