@@ -41,5 +41,6 @@ int main()
     cout<<" \n pivot element is "<<arr[s]<<endl;
 
     
-    int a = 45;
+    int a =76;
+    
 }
