@@ -41,6 +41,12 @@ int main()
     cout<<" \n pivot element is "<<arr[s]<<endl;
 
     
-    int a =76;
-    
+    int a = 45;
+    if (a > 19)
+    cout<<"eligible for vote casting\n";
+    else
+    cout<<"not eligible for vote casting\n";
+
+    return 0;
+
 }
