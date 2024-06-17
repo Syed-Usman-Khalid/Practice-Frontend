@@ -46,7 +46,9 @@ int main()
     cout<<"eligible for vote casting\n";
     else
     cout<<"not eligible for vote casting\n";
+    cout<<"eid mubarik ";
 
     return 0;
+
 
 }
