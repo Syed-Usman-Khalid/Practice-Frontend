@@ -40,13 +40,22 @@ int main()
     }
     cout<<" \n pivot element is "<<arr[s]<<endl;
 
-    
-    int a = 45;
-    if (a > 19)
-    cout<<"eligible for vote casting\n";
-    else
-    cout<<"not eligible for vote casting\n";
-    cout<<"eid mubarik ";
+    // ----------------- find the k-difference pairs in an array. -----------------
+    int count = 0 , n = 4;
+    int ar[4]={1,3,4,5};
+    int k = 2 ;
+    for(int i=0 ; i<=n ; i++)
+    {
+        for(int j=i+1; j<=n ; j++)
+        {
+            if(ar[j]-ar[i]==k)
+            count ++;
+            
+        }
+    }
+    cout<<"pairs count = "<<count <<endl;    
+
+
 
     return 0;
 
