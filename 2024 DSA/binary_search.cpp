@@ -50,10 +50,12 @@ int main()
         {
             if(ar[j]-ar[i]==k)
             count ++;
-            
         }
+        cout<<"pair count = "<<count <<endl;   
     }
-    cout<<"pairs count = "<<count <<endl;    
+    cout<<"pairs count = "<<count <<endl;  
+
+    cout<<"find the k closet number";
 
 
 
