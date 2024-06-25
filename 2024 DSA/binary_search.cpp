@@ -57,7 +57,7 @@ int main()
 
     cout<<"find the k closet number";
     cout<<"find the k closet number";
-
+    cout<<"find the k closet number";
 
 
     return 0;
