@@ -55,7 +55,7 @@ int main()
     }
     cout<<"pairs count = "<<count <<endl;  
 
-    
+    cout<<"8777";
 
 
     return 0;
