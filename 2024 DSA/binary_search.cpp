@@ -55,8 +55,8 @@ int main()
     }
     cout<<"pairs count = "<<count <<endl;  
 
-    cout<<"yes \n";
-
+    // the next question about expoential jump
+    
 
     return 0;
 
