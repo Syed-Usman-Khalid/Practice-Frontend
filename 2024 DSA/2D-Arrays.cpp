@@ -21,11 +21,8 @@ int main()
     cout<<endl;
     }
     
-    cout<<"upper bound\n";
-    cout<<"upper bound\n";
-    cout<<"19-may chinese\n ";
-
-    cout<<"binary search questions from 3rd june";
+    
+    
 
 
     return 0;

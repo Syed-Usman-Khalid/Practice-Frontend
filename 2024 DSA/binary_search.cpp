@@ -54,7 +54,8 @@ int main()
         cout<<"pair count = "<<count <<endl;   
     }
     cout<<"pairs count = "<<count <<endl;  
-
+    
+    cout<<"summer vacation of academy students";
     
     
 
