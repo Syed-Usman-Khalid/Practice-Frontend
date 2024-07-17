@@ -57,8 +57,7 @@ int main()
     
     // ---------------------Book allocation problem -----------------------------
     
-    cout<<"thesis working\n";
-    cout<<"thesis working\n";
+    
     
     
 
