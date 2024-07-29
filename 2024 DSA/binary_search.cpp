@@ -58,6 +58,8 @@ int main()
     // ---------------------Book allocation problem -----------------------------
     
     cout<<"arrays problem starting from ";
+
+    cout<<"yes";
     
     
 
