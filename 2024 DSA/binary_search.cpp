@@ -57,7 +57,7 @@ int main()
     
     // ---------------------Book allocation problem -----------------------------
     
-    cout<<"naseem ";
+    cout<<"javascript";
     
     
 
