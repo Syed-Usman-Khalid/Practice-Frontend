@@ -15,3 +15,17 @@ div{
     border  : 2px solid black;
     color : black;
 }
+
+.parent{
+    border : 10px solid black; 
+    width : 90%;
+    height : 75%;
+}
+
+.child{
+    border : 2px solid saddlebrown;
+    align-items: center;
+    justify-content: center;
+    /* width : 40%; */
+    /* height : 5%; */
+}
