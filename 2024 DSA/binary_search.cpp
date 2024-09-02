@@ -57,7 +57,7 @@ int main()
     
     // ---------------------Book allocation problem -----------------------------
     
-    cout<<"character arrays and strings DSA course by love babbar \n";
+
     
     
     
