@@ -36,3 +36,5 @@ int main() // Correct main function declaration
     return 0;
 }
 
+cout<<"code wars solution file\n";
+
