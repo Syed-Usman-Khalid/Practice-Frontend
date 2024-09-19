@@ -58,6 +58,7 @@ int main()
     // ---------------------Book allocation problem -----------------------------
     
     cout<<"ji";
+    cout<<"yes";
     
     
     
