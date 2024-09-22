@@ -57,7 +57,10 @@ int main()
     
     // ---------------------Book allocation problem -----------------------------
     
-    
+    char zrr[40];
+    cout<<"enter the characters you want to store\n";
+    cin>>zrr;
+    cout<<"you entered "<<zrr<<endl;
     
     
     
