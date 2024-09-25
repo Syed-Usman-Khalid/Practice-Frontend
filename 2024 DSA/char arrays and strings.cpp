@@ -11,6 +11,7 @@ int main()
     cin>>name[49];
 
     // cout<<name<<endl;
+    
 
     return 0 ;
 
